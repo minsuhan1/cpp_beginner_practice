@@ -1,0 +1,3 @@
+﻿constructor_utilize_ex3.obj : error LNK2005: _main이(가) constructor_and_destructor.obj에 이미 정의되어 있습니다.
+ex2.obj : error LNK2005: _main이(가) constructor_and_destructor.obj에 이미 정의되어 있습니다.
+C:\Users\MinsuHan\source\repos\Cpp_beginner_practice\Debug\constructor_and_destructor.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
